@@ -1,0 +1,21 @@
+body {
+  font-family: "Alice", serif;
+}
+
+.btn {
+  background-color: rgba(0, 255, 255, 0.76);
+  color: #fff;
+}
+
+.btn:hover {
+  background-color: rgba(167, 167, 15, 0.712);
+  color: black;
+}
+
+img {
+  border-radius: 5px;
+}
+
+#draw {
+  width: 350px;
+}
